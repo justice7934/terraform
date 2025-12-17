@@ -30,6 +30,7 @@ resource "aws_s3_bucket" "mytfstate" {
 #   write_capacity = 20
 #   hash_key       = "LockID"
 
+
 #   attribute {
 #     name = "LockID"
 #     type = "S"
